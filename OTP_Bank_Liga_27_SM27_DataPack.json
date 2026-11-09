@@ -1,0 +1,153 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Debreceni VSC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Name": "ETO FC Győr",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Name": "Ferencvárosi TC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Name": "Kispest-Honvéd FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Name": "Kisvárda Master Good",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Name": "MTK Budapest",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Name": "Nyíregyháza Spartacus FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Name": "Paksi FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9,
+      "Name": "Puskás Akadémia FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10,
+      "Name": "Újpest FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11,
+      "Name": "Vasas FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12,
+      "Name": "Zalaegerszegi TE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13,
+      "Name": "BVSC-Zugló",
+      "ImageURL": ""
+    },
+    {
+      "ID": 14,
+      "Name": "Diósgyőri VTK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 15,
+      "Name": "FC Ajka",
+      "ImageURL": ""
+    },
+    {
+      "ID": 16,
+      "Name": "Aqvital FC Csákvár",
+      "ImageURL": ""
+    },
+    {
+      "ID": 17,
+      "Name": "FC Nagykanizsa",
+      "ImageURL": ""
+    },
+    {
+      "ID": 18,
+      "Name": "Videoton FC Fehérvár",
+      "ImageURL": ""
+    },
+    {
+      "ID": 19,
+      "Name": "Gyirmót FC Győr",
+      "ImageURL": ""
+    },
+    {
+      "ID": 20,
+      "Name": "Karcagi SC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 21,
+      "Name": "Kolorcity Kazincbarcika SC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 22,
+      "Name": "Kecskeméti TE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 23,
+      "Name": "Mezőkövesd Zsóry FC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 24,
+      "Name": "Soroksár SC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 25,
+      "Name": "Szentlőrinc SE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 26,
+      "Name": "Szeged-Csanád Grosics Akadémia",
+      "ImageURL": ""
+    },
+    {
+      "ID": 27,
+      "Name": "Tiszakécskei LC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 28,
+      "Name": "HR-Rent Kozármisleny FC",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 1,
+      "Name": "MOL Magyar Kupa",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": []
+}
